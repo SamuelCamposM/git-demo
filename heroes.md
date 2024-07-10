@@ -6,5 +6,5 @@
 * Mujer Maravilla
 * Linterna Verde
 * Robin
-* Nuevo cambio
+* Nuevo cambio editado desde github
 * nuevo otra vez desde github
